@@ -1,24 +1,37 @@
-# README
+#　創作怪談投稿サイト　あなたの怪談
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+創作怪談を投稿できるサイト。
 
-Things you may want to cover:
+### サイトテーマ
+オリジナル会談のシェア。
 
-* Ruby version
+### テーマを選んだ理由
+わたしは、ホラーやクトゥルフ神話、SPCなどが好きです。
+今までは、主にゲームを通してそうしたものに触れてきました。
+オリジナルの怪談を投稿できるサイトがあれば、手軽に自分の創作を発表したり、他の作品を読むことができ、
+今まで以上に簡単にたくさんの作品に触れることができると思い、このテーマにしました。
 
-* System dependencies
+### ターゲットユーザ
+ホラーが好きな人や、物語を作るのが好きな人
 
-* Configuration
+### 主な利用シーン
+自身の考えた創作怪談を披露したい時。または、他の人の考えた怪談を読みたい時。
+また、創作怪談を通じたコミュニケーションの場としても活用できる。
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1XZ4l3d1xbjK_mUf652vXNBgYjmR9vzVrbfYgL2kxvVY/edit?usp=sharing
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
+## 使用素材
+- Font Awesome https://fontawesome.com/
 
-* Deployment instructions
-
-* ...
